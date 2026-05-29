@@ -25,3 +25,7 @@ python main.py
 
 ## Author
 Zayna
+
+## Live Demo
+
+🌐 https://weather-app-ta5tkx9wevbgkd3p7wnszu.streamlit.app/
